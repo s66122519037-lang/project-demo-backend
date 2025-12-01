@@ -64,6 +64,6 @@ Server จะรันอยู่ที่ http://localhost:3001
 # โครงสร้างโค้ดสำคัญ
 โครงสร้างไฟล์หลักของ Elysia.js + Bun:
 
-src/index.ts: ไฟล์ Entry Point ของแอปพลิเคชัน และรวม Routes หลัก
-src/controllers/: ที่เก็บไฟล์ Route Group หรือ Plugins ที่จัดการ Logic ของ API แต่ละส่วน
-prisma/schema.prisma: ไฟล์กำหนด Schema ของ Database MongoDB
+src/index.ts: ไฟล์ Entry Point ของแอปพลิเคชัน และรวม Routes หลัก.
+src/controllers/: ที่เก็บไฟล์ Route Group หรือ Plugins ที่จัดการ Logic ของ API แต่ละส่วน.
+prisma/schema.prisma: ไฟล์กำหนด Schema ของ Database MongoDB.
