@@ -1,4 +1,4 @@
-# PROJECT DEMO: ระบบประเมินนักศึกษาฝึกงาน (Backend)
+# PROJECT DEMO: (Backend)
 This is a high-performance Backend API built with Elysia.js running on the Bun Runtime.
 โปรเจกต์นี้ใช้ Prisma เป็น ORM สำหรับเชื่อมต่อกับ MongoDB และจัดการ Schema ของ Database
 
